@@ -11,7 +11,7 @@
 
 ### Strings
 - [x] [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
 
 ## 2. Linked Lists
