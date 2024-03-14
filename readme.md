@@ -10,7 +10,7 @@
 - [x] [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/)
 
 ### Strings
-- [ ] [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
+- [x] [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
 
