@@ -5,9 +5,9 @@
 ## 1. Arrays and Strings
 
 ### Arrays
-- [ ] [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
-- [ ] [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+- [x] [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate/)
 
 ### Strings
 - [ ] [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
