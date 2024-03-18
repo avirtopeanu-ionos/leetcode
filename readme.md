@@ -15,8 +15,8 @@
 - [x] [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
 
 ## 2. Linked Lists
-- [ ] [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 
 ## 3. Stacks and Queues
