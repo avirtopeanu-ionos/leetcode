@@ -17,7 +17,7 @@
 ## 2. Linked Lists
 - [x] [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 
 ## 3. Stacks and Queues
 - [ ] [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
