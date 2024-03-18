@@ -10,8 +10,7 @@ def get_counts(s: str) -> dict[str, int]:
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return Counter(s) == Counter(t)
-
+        return get_counts(s) == get_counts(t)
 
 if __name__ == "__main__":
     print(Solution().isAnagram("ananas", "nanasa"))

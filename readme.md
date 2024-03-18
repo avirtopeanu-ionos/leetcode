@@ -12,7 +12,7 @@
 ### Strings
 - [x] [Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
 - [x] [Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
+- [x] [Group Anagrams (Medium)](https://leetcode.com/problems/group-anagrams/)
 
 ## 2. Linked Lists
 - [ ] [Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
