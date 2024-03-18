@@ -20,7 +20,7 @@
 - [x] [Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle/)
 
 ## 3. Stacks and Queues
-- [ ] [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Implement Stack using Queues (Easy)](https://leetcode.com/problems/implement-stack-using-queues/)
 - [ ] [Implement Queue using Stacks (Easy)](https://leetcode.com/problems/implement-queue-using-stacks/)
 
