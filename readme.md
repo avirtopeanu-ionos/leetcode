@@ -30,7 +30,7 @@
 - [ ] [Validate Binary Search Tree (Medium)](https://leetcode.com/problems/validate-binary-search-tree/)
 
 ## 5. Graphs
-- [ ] [Number of Islands (Medium)](https://leetcode.com/problems/number-of-islands/)
+- [x] [Number of Islands (Medium)](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Clone Graph (Medium)](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule (Medium)](https://leetcode.com/problems/course-schedule/)
 
